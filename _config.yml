@@ -122,7 +122,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@bsideshalifax.ca", text: "info@bsideshalifax.ca", icon: "email"}
+   - {link: "mailto:info@halifaxbsides.ca", text: "info@halifaxbsides.ca", icon: "email"}
  -
   title: "Code of Conduct"
   links:
